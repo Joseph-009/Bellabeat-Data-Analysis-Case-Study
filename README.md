@@ -399,37 +399,33 @@ WHERE TotalDistance = (SELECT MAX(TotalDistance) FROM fitness_tracker.dailyactiv
 ___
 
 # Summary of Analysis
-1. **Daily Activity Trends:** 
-   - Average daily steps and calories burned per user can provide insights into the overall activity levels of users.
-   - Trends in active and sedentary minutes help identify periods of high and low activity.
-
-2. **Heart Rate Analysis:** 
-   - Daily and hourly heart rate trends show average heart rates during different times of the day, helping to understand users' cardiovascular health.
-
-3. **Hourly Activity Trends:** 
-   - Hourly analysis of calories burned, intensities, and steps can help identify peak activity periods throughout the day.
-
-4. **Minute-Level Trends:** 
-   - Minute-level analysis provides granular insights into short-term activity patterns, which can be valuable for understanding specific user behaviors.
-
-5. **Sleep Patterns:** 
-   - Average minutes asleep, minutes awake, number of awakenings, and sleep efficiency provide a comprehensive view of users' sleep quality.
+1. **Trends in Daily Activities:**
+ • General activities of the user are as ■ spelled out by their average steps per day and average calories burned per user.
+ • The trends of both active and sedentary minutes are responsible for spot the low and high periods of activity.
+2. **Heart Rate Analysis:**
+- The average heart rate a user has at different times of the day is built by the day and hour trends for the heart rate which in turn helps in getting to know cardiovascular health.
+3. **Hourly Activity Trends:**
+ The measurement of that parameter of energy incinerating every hour like calories, intensities, and steps contributed to the proper determination of the periods of peak activity throughout the day.
+4. **Minute-Level Trends:**
+ Analysing every minute of exercise gives us very detailed information on the one hand, but on the other, it is not convenient, because speeding up our performance in specific directions may develop only at text lists and in the best case they show the user's driving style examination.
+5. **Sleep Patterns:**
+ As for the sleep, the data like Average minutes asleep, minutes awake, number of awakenings, and sleep efficiency are all counted in.
 ___
 # Conclusions and Recommendations
 
 1. **Trends in Smart Device Usage:**
-   - Users show distinct daily patterns of activity, with peak activity times typically occurring in the morning and evening.
-   - Heart rate data indicates variations in cardiovascular activity throughout the day.
-   - Sleep patterns reveal opportunities to improve sleep quality and duration.
+   - Each of course has its own distinct daily patterns that users exhibit, with peaks in activity usually around morning and night.
+   - For example, how the detailed heart rate data varies over a 24 hour period can be an important point for cardiovascular activity.
+   - After analyzing the data we have got sleep pattern of bellabeat users by using thes we can improve the sleep quality and duration of bellabeat users.
 
 2. **Application to Bellabeat Customers:**
-   - Bellabeat can leverage these insights to promote personalized health recommendations in the Bellabeat app.
-   - By understanding peak activity times, Bellabeat can create targeted marketing campaigns for its products like Leaf, Time, and Spring.
+   -This data can then be used by Bellabeat to pitch its own personalised health recommendations inside the app.
+   - Bellabeat can create specific marketing campaigns based on peak activity times for products like Leaf, Time and Spring.
 
-3. **Marketing Strategy Recommendations:**
-   - Personalized Notifications: Encourage users to stay active during identified low-activity periods through app notifications and challenges.
-   - Sleep Improvement Programs: Develop content and programs focused on improving sleep quality, using insights from sleep data.
-   - Targeted Advertising: Run marketing campaigns during peak activity times to maximize engagement.
+3. **Recommendations for Marketing Strategy:**
+   - Custom Notification: By customizing the notification of the app we can encourage bellabeat users to stay active during at low-activity period.
+   - Continuous Sleep Improvement Programs - Create content utilizing sleep quality and data to drive engagement around programs aimed towards helping users optimize their sleep Live Data Tracking.
+   - Targeted Advertising:The marketing campaigns should be run during the perio when the users are mostely active to increase their engagement.
 ___
 By following these strategies, Bellabeat can enhance user engagement, improve product adoption, and ultimately drive growth.
 ___
